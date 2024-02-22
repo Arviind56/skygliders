@@ -55,7 +55,7 @@ Feel free to customize this template further based on additional features or spe
 ![image](https://github.com/Arviind56/skygliders/assets/137086363/4d3bd7fd-aade-40fc-b051-39443b3dae9f)
 ![image](https://github.com/Arviind56/skygliders/assets/137086363/0eb5fde0-139b-42ae-9d1e-8aea4d6c2533)
 ![image](https://github.com/Arviind56/skygliders/assets/137086363/5446e57a-b222-48f4-b208-24525dba94ad)
-![Uploading image.png…]()
+
 
 
 
